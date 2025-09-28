@@ -113,7 +113,8 @@ PRIVATE_KEY=your-private-key
 ## Deployment Info
 
 - Contract: `Bank.sol`
-- Example deployed address: `0xYourDeployedContractAddress`
+✅ Bank contract deployed at: 0x7e7EdCf617B79893043e92Cd47EAFb37686046dE
+
 
 ---
 
